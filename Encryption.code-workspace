@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Alarma_central",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"list": "cpp",
+			"string_view": "cpp",
+			"type_traits": "cpp",
+			"variant": "cpp"
+		}
+	}
+}
