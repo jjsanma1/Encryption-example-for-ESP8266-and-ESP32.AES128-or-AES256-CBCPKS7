@@ -121,11 +121,8 @@ void setup()
   Serial.println(decdata);
 }
 
-
-
 void loop()
 { 
- 
 
 }
 
