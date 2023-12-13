@@ -1,8 +1,5 @@
 # Example for ESP8266 and ESP32 of Encryption AES128 or AES256 mode CBC with PKCS7Padding.
 
-[![GitHub version](https://img.shields.io/github/release/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7.svg)](https://github.com/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7/releases/latest)
-[![GitHub download](https://img.shields.io/github/downloads/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7/total.svg)](https://github.com/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7/releases/latest)
-[![GitHub stars](https://img.shields.io/github/stars/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7.svg)](https://github.com/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7/stargazers)
 It uses Using BearSSL of arduino.
 It uses base64 library https://github.com/Densaugeo/base64_arduino.git to encode/decode strings to be sent/received through HTTP. 
 
