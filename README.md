@@ -3,6 +3,10 @@
 It uses Using BearSSL of arduino.
 It uses base64 library https://github.com/Densaugeo/base64_arduino.git to encode/decode strings to be sent/received through HTTP. 
 
+[![GitHub version](https://img.shields.io/github/release/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7.svg)](https://github.com/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7/releases/latest)
+[![GitHub download](https://img.shields.io/github/downloads/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7/total.svg)](https://github.com/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7.svg)](https://github.com/jjsanma1/Encryption-example-for-ESP8266-and-ESP32.AES128-or-AES256-CBCPKS7/stargazers)
+
  **Author: JJ - December 2023**
 
  Tested in ESP8266 ESP12F (not tested for ESP32) .Platform IO v3.3.1. VSCode 1.85.0. ESP8266 boards 3.1.2 . 
